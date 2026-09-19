@@ -153,7 +153,6 @@ mainContainer.appendChild(pedalsPositioner);
 // GAMEPAD INPUT LOOP
 // =============================================================================
 
-// tell the browser these will animate so it moves them to the gpu
 [imgWheel, imgGas, imgBrake, imgClutch, shifterHead].forEach(function (el) {
     el.style.willChange = "transform";
 });

@@ -1,6 +1,6 @@
 # G923 Visualizer
  
-Shows your Logitech G923 wheel, pedals and shifter on screen. Made for OBS.
+Shows your Logitech G923 wheel, pedals and shifter on screen.
  
 ## Setup
  
