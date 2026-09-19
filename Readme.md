@@ -6,9 +6,9 @@ Shows your Logitech G923 wheel, pedals and shifter on screen. Made for OBS.
  
 1. Download the files
 2. In OBS add a new Browser source
-3. Tick "Local file" and pick `index.html`
+3. Tick `Local file` and pick `index.html`
 4. Set width to `790` and height to `850`
-5. Remove `overflow: hidden;`
+5. Remove `overflow: hidden;` from Custom CSS
 
 ## Changing buttons and axes
  
